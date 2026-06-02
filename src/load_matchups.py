@@ -9,7 +9,7 @@ def load_matchups(file_path):
 
     matchups = []
 
-    match_id = 0
+    match_id = 1
 
     stage = "Round of 32"
 
