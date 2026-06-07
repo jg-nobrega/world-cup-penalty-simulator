@@ -1,0 +1,494 @@
+player_id,name,age,number,position,photo,team_name,team_id
+16380,H. Galíndez,38.0,1.0,Goalkeeper,https://media.api-sports.io/football/players/16380.png,Ecuador,2382
+81224,M. Ramírez,25.0,12.0,Goalkeeper,https://media.api-sports.io/football/players/81224.png,Ecuador,2382
+16642,G. Valle,29.0,22.0,Goalkeeper,https://media.api-sports.io/football/players/16642.png,Ecuador,2382
+46731,P. Estupiñán,27.0,7.0,Defender,https://media.api-sports.io/football/players/46731.png,Ecuador,2382
+127817,P. Hincapié,23.0,3.0,Defender,https://media.api-sports.io/football/players/127817.png,Ecuador,2382
+306940,Y. Medina,21.0,26.0,Defender,https://media.api-sports.io/football/players/306940.png,Ecuador,2382
+354027,J. Ordoñez,21.0,4.0,Defender,https://media.api-sports.io/football/players/354027.png,Ecuador,2382
+16367,W. Pacho,24.0,6.0,Defender,https://media.api-sports.io/football/players/16367.png,Ecuador,2382
+2575,J. Porozo,25.0,25.0,Defender,https://media.api-sports.io/football/players/2575.png,Ecuador,2382
+2583,A. Preciado,27.0,17.0,Defender,https://media.api-sports.io/football/players/2583.png,Ecuador,2382
+63964,F. Torres,28.0,2.0,Defender,https://media.api-sports.io/football/players/63964.png,Ecuador,2382
+16470,J. Alcívar,26.0,5.0,Midfielder,https://media.api-sports.io/football/players/16470.png,Ecuador,2382
+116117,M. Caicedo,24.0,23.0,Midfielder,https://media.api-sports.io/football/players/116117.png,Ecuador,2382
+338045,D. Castillo,21.0,6.0,Midfielder,https://media.api-sports.io/football/players/338045.png,Ecuador,2382
+16360,A. Franco,27.0,21.0,Midfielder,https://media.api-sports.io/football/players/16360.png,Ecuador,2382
+406303,K. Páez,18.0,10.0,Midfielder,https://media.api-sports.io/football/players/406303.png,Ecuador,2382
+280695,A. Minda,22.0,14.0,Midfielder,https://media.api-sports.io/football/players/280695.png,Ecuador,2382
+198347,A. Valencia,22.0,8.0,Midfielder,https://media.api-sports.io/football/players/198347.png,Ecuador,2382
+237078,P. Vite,23.0,15.0,Midfielder,https://media.api-sports.io/football/players/237078.png,Ecuador,2382
+361966,K. Rodríguez,25.0,11.0,Attacker,https://media.api-sports.io/football/players/361966.png,Ecuador,2382
+25414,J. Yeboah,25.0,9.0,Midfielder,https://media.api-sports.io/football/players/25414.png,Ecuador,2382
+311543,N. Angulo,22.0,20.0,Midfielder,https://media.api-sports.io/football/players/311543.png,Ecuador,2382
+16590,J. Caicedo,28.0,16.0,Attacker,https://media.api-sports.io/football/players/16590.png,Ecuador,2382
+350799,Jeremy Arévalo,20.0,24.0,Attacker,https://media.api-sports.io/football/players/350799.png,Ecuador,2382
+16369,G. Plata,25.0,19.0,Attacker,https://media.api-sports.io/football/players/16369.png,Ecuador,2382
+35533,E. Valencia,36.0,13.0,Attacker,https://media.api-sports.io/football/players/35533.png,Ecuador,2382
+1106,C. Gordon,43.0,21.0,Goalkeeper,https://media.api-sports.io/football/players/1106.png,Scotland,1108
+18933,A. Gunn,29.0,1.0,Goalkeeper,https://media.api-sports.io/football/players/18933.png,Scotland,1108
+44937,L. Kelly,29.0,12.0,Goalkeeper,https://media.api-sports.io/football/players/44937.png,Scotland,1108
+19066,G. Hanley,34.0,5.0,Defender,https://media.api-sports.io/football/players/19066.png,Scotland,1108
+1111,J. Hendry,30.0,13.0,Defender,https://media.api-sports.io/football/players/1111.png,Scotland,1108
+44871,A. Hickey,23.0,2.0,Defender,https://media.api-sports.io/football/players/44871.png,Scotland,1108
+19987,D. Hyam,30.0,16.0,Defender,https://media.api-sports.io/football/players/19987.png,Scotland,1108
+44811,S. McKenna,29.0,26.0,Defender,https://media.api-sports.io/football/players/44811.png,Scotland,1108
+138417,N. Patterson,24.0,22.0,Defender,https://media.api-sports.io/football/players/138417.png,Scotland,1108
+1115,A. Ralston,27.0,24.0,Defender,https://media.api-sports.io/football/players/1115.png,Scotland,1108
+289,A. Robertson,31.0,3.0,Defender,https://media.api-sports.io/football/players/289.png,Scotland,1108
+44865,J. Souttar,29.0,15.0,Defender,https://media.api-sports.io/football/players/44865.png,Scotland,1108
+1117,K. Tierney,28.0,6.0,Defender,https://media.api-sports.io/football/players/1117.png,Scotland,1108
+1125,R. Christie,30.0,11.0,Midfielder,https://media.api-sports.io/football/players/1125.png,Scotland,1108
+44814,L. Ferguson,26.0,19.0,Midfielder,https://media.api-sports.io/football/players/44814.png,Scotland,1108
+557460,T. Fletcher,18.0,8.0,Midfielder,https://media.api-sports.io/football/players/557460.png,Scotland,1108
+19191,J.  McGinn,31.0,7.0,Midfielder,https://media.api-sports.io/football/players/19191.png,Scotland,1108
+19077,K. McLean,33.0,23.0,Midfielder,https://media.api-sports.io/football/players/19077.png,Scotland,1108
+903,S. McTominay,29.0,4.0,Midfielder,https://media.api-sports.io/football/players/903.png,Scotland,1108
+19524,C. Adams,29.0,10.0,Attacker,https://media.api-sports.io/football/players/19524.png,Scotland,1108
+45307,L. Dykes,30.0,9.0,Attacker,https://media.api-sports.io/football/players/45307.png,Scotland,1108
+343576,B. Doak,20.0,17.0,Midfielder,https://media.api-sports.io/football/players/343576.png,Scotland,1108
+8794,G. Hirst,26.0,18.0,Attacker,https://media.api-sports.io/football/players/8794.png,Scotland,1108
+45175,L. Shankland,30.0,20.0,Attacker,https://media.api-sports.io/football/players/45175.png,Scotland,1108
+45078,R. Stewart,29.0,14.0,Attacker,https://media.api-sports.io/football/players/45078.png,Scotland,1108
+433272,Findlay Curtis,19.0,25.0,Attacker,https://media.api-sports.io/football/players/433272.png,Scotland,1108
+22221,M. Maignan,30.0,16.0,Goalkeeper,https://media.api-sports.io/football/players/22221.png,France,2
+347211,R. Risser,21.0,23.0,Goalkeeper,https://media.api-sports.io/football/players/347211.png,France,2
+21628,B. Samba,31.0,1.0,Goalkeeper,https://media.api-sports.io/football/players/21628.png,France,2
+2724,L. Digne,32.0,3.0,Defender,https://media.api-sports.io/football/players/2724.png,France,2
+161907,M. Gusto,22.0,2.0,Defender,https://media.api-sports.io/football/players/161907.png,France,2
+33,L. Hernández,29.0,21.0,Defender,https://media.api-sports.io/football/players/33.png,France,2
+47300,T. Hernández,28.0,19.0,Defender,https://media.api-sports.io/football/players/47300.png,France,2
+1145,I. Konaté,26.0,15.0,Defender,https://media.api-sports.io/football/players/1145.png,France,2
+1257,J. Koundé,27.0,5.0,Defender,https://media.api-sports.io/football/players/1257.png,France,2
+20995,M. Lacroix,25.0,26.0,Defender,https://media.api-sports.io/football/players/20995.png,France,2
+22090,W. Saliba,24.0,17.0,Defender,https://media.api-sports.io/football/players/22090.png,France,2
+1149,D. Upamecano,27.0,4.0,Defender,https://media.api-sports.io/football/players/1149.png,France,2
+156477,R. Cherki,22.0,24.0,Midfielder,https://media.api-sports.io/football/players/156477.png,France,2
+2290,N. Kanté,34.0,13.0,Midfielder,https://media.api-sports.io/football/players/2290.png,France,2
+22147,M. Koné,24.0,6.0,Midfielder,https://media.api-sports.io/football/players/22147.png,France,2
+272,A. Rabiot,30.0,14.0,Midfielder,https://media.api-sports.io/football/players/272.png,France,2
+1271,A. Tchouaméni,25.0,8.0,Midfielder,https://media.api-sports.io/football/players/1271.png,France,2
+336657,W. Zaïre-Emery,19.0,18.0,Midfielder,https://media.api-sports.io/football/players/336657.png,France,2
+274300,M. Akliouche,23.0,25.0,Midfielder,https://media.api-sports.io/football/players/274300.png,France,2
+161904,B. Barcola,23.0,12.0,Attacker,https://media.api-sports.io/football/players/161904.png,France,2
+25927,J. Mateta,28.0,22.0,Attacker,https://media.api-sports.io/football/players/25927.png,France,2
+153,O. Dembélé,28.0,7.0,Attacker,https://media.api-sports.io/football/players/153.png,France,2
+343027,D. Doué,20.0,20.0,Attacker,https://media.api-sports.io/football/players/343027.png,France,2
+278,Kylian Mbappé,27.0,10.0,Attacker,https://media.api-sports.io/football/players/278.png,France,2
+21509,M. Thuram,28.0,9.0,Midfielder,https://media.api-sports.io/football/players/21509.png,France,2
+19617,M. Olise,24.0,11.0,Midfielder,https://media.api-sports.io/football/players/19617.png,France,2
+68988,V. Esson,34.0,12.0,Goalkeeper,https://media.api-sports.io/football/players/68988.png,New Zealand W,1716
+323352,A. Leat,24.0,1.0,Goalkeeper,https://media.api-sports.io/football/players/323352.png,New Zealand W,1716
+614838,Alina Santos,,,Goalkeeper,https://media.api-sports.io/football/players/614838.png,New Zealand W,1716
+296967,E. Anton,27.0,19.0,Defender,https://media.api-sports.io/football/players/296967.png,New Zealand W,1716
+68991,C. Bott,30.0,4.0,Defender,https://media.api-sports.io/football/players/68991.png,New Zealand W,1716
+296703,C. Bunge,26.0,3.0,Defender,https://media.api-sports.io/football/players/296703.png,New Zealand W,1716
+613611,M. Elliott,20.0,11.0,Defender,https://media.api-sports.io/football/players/613611.png,New Zealand W,1716
+400729,M. Foster,26.0,7.0,Defender,https://media.api-sports.io/football/players/400729.png,New Zealand W,1716
+614839,Ally Green,27.0,15.0,Defender,https://media.api-sports.io/football/players/614839.png,New Zealand W,1716
+68994,M. Moore,29.0,5.0,Defender,https://media.api-sports.io/football/players/68994.png,New Zealand W,1716
+348672,K. Taylor,22.0,2.0,Defender,https://media.api-sports.io/football/players/348672.png,New Zealand W,1716
+290835,M. Hahn,24.0,16.0,Midfielder,https://media.api-sports.io/football/players/290835.png,New Zealand W,1716
+613619,D. Jackson,27.0,,Midfielder,https://media.api-sports.io/football/players/613619.png,New Zealand W,1716
+567271,K. Kitching,27.0,11.0,Midfielder,https://media.api-sports.io/football/players/567271.png,New Zealand W,1716
+69003,A. Longo,34.0,20.0,Midfielder,https://media.api-sports.io/football/players/69003.png,New Zealand W,1716
+614840,Emma Pijnenberg,21.0,6.0,Midfielder,https://media.api-sports.io/football/players/614840.png,New Zealand W,1716
+613698,L. Wall,25.0,16.0,Midfielder,https://media.api-sports.io/football/players/613698.png,New Zealand W,1716
+530630,G. Wisnewski,23.0,8.0,Midfielder,https://media.api-sports.io/football/players/530630.png,New Zealand W,1716
+562020,H. Blake,25.0,15.0,Attacker,https://media.api-sports.io/football/players/562020.png,New Zealand W,1716
+613599,K. Brown,24.0,11.0,Attacker,https://media.api-sports.io/football/players/613599.png,New Zealand W,1716
+348661,G. Jale,26.0,18.0,Attacker,https://media.api-sports.io/football/players/348661.png,New Zealand W,1716
+379900,E. Clegg,20.0,9.0,Attacker,https://media.api-sports.io/football/players/379900.png,New Zealand W,1716
+323341,G. Rennie,24.0,9.0,Attacker,https://media.api-sports.io/football/players/323341.png,New Zealand W,1716
+76185,I. Riley,24.0,10.0,Attacker,https://media.api-sports.io/football/players/76185.png,New Zealand W,1716
+580979,P. Vlok,17.0,10.0,Attacker,https://media.api-sports.io/football/players/580979.png,New Zealand W,1716
+2890,Jo Hyeon-Woo,34.0,21.0,Goalkeeper,https://media.api-sports.io/football/players/2890.png,South Korea,17
+2892,Kim Seung-Gyu,35.0,12.0,Goalkeeper,https://media.api-sports.io/football/players/2892.png,South Korea,17
+34374,Song Bum-Keun,28.0,1.0,Goalkeeper,https://media.api-sports.io/football/players/34374.png,South Korea,17
+547307,Cho Wi-Je,24.0,5.0,Defender,https://media.api-sports.io/football/players/547307.png,South Korea,17
+2897,Kim Min-Jae,29.0,2.0,Defender,https://media.api-sports.io/football/players/2897.png,South Korea,17
+2912,Kim Moon-Hwan,30.0,15.0,Defender,https://media.api-sports.io/football/players/2912.png,South Korea,17
+34418,Kim Tae-Hyeon,25.0,9.0,Defender,https://media.api-sports.io/football/players/34418.png,South Korea,17
+237218,Lee Han-Beom,23.0,18.0,Defender,https://media.api-sports.io/football/players/237218.png,South Korea,17
+99211,Park Jin-Seop,30.0,22.0,Midfielder,https://media.api-sports.io/football/players/99211.png,South Korea,17
+237220,Lee Tae-Seok,23.0,7.0,Midfielder,https://media.api-sports.io/football/players/237220.png,South Korea,17
+197985,Seol Young-Woo,27.0,16.0,Midfielder,https://media.api-sports.io/football/players/197985.png,South Korea,17
+280358,J. Castrop,22.0,19.0,Midfielder,https://media.api-sports.io/football/players/280358.png,South Korea,17
+304951,Lee Gi-Hyuk,25.0,10.0,Defender,https://media.api-sports.io/football/players/304951.png,South Korea,17
+357286,Bae Jun-Ho,22.0,25.0,Attacker,https://media.api-sports.io/football/players/357286.png,South Korea,17
+237050,Eom Ji-Sung,23.0,23.0,Attacker,https://media.api-sports.io/football/players/237050.png,South Korea,17
+2901,Hwang In-Beom,29.0,24.0,Midfielder,https://media.api-sports.io/football/players/2901.png,South Korea,17
+34168,Kim Jin-Gyu,28.0,25.0,Midfielder,https://media.api-sports.io/football/players/34168.png,South Korea,17
+34431,Lee Dong-Gyeong,28.0,11.0,Attacker,https://media.api-sports.io/football/players/34431.png,South Korea,17
+2906,Lee Jae-Sung,33.0,8.0,Midfielder,https://media.api-sports.io/football/players/2906.png,South Korea,17
+927,Lee Kang-In,24.0,17.0,Midfielder,https://media.api-sports.io/football/players/927.png,South Korea,17
+2909,Paik Seung-Ho,28.0,4.0,Midfielder,https://media.api-sports.io/football/players/2909.png,South Korea,17
+304958,Yang Hyun-Jun,23.0,26.0,Attacker,https://media.api-sports.io/football/players/304958.png,South Korea,17
+24888,Hwang Hee-Chan,29.0,20.0,Attacker,https://media.api-sports.io/football/players/24888.png,South Korea,17
+34211,Cho Gue-Sung,28.0,14.0,Attacker,https://media.api-sports.io/football/players/34211.png,South Korea,17
+34710,Oh Hyeon-Gyu,24.0,3.0,Attacker,https://media.api-sports.io/football/players/34710.png,South Korea,17
+186,Son Heung-Min,33.0,13.0,Attacker,https://media.api-sports.io/football/players/186.png,South Korea,17
+42207,Mahmud Abunada,25.0,1.0,Goalkeeper,https://media.api-sports.io/football/players/42207.png,Qatar,1569
+42021,Meshaal Barsham,27.0,22.0,Goalkeeper,https://media.api-sports.io/football/players/42021.png,Qatar,1569
+136503,Salah Zakaria,26.0,21.0,Goalkeeper,https://media.api-sports.io/football/players/136503.png,Qatar,1569
+175439,Homam Ahmed,26.0,14.0,Defender,https://media.api-sports.io/football/players/175439.png,Qatar,1569
+42060,Sultan Al Braik,29.0,18.0,Defender,https://media.api-sports.io/football/players/42060.png,Qatar,1569
+542542,A. Al Hussain,22.0,25.0,Defender,https://media.api-sports.io/football/players/542542.png,Qatar,1569
+542548,A. Al Oui,20.0,13.0,Defender,https://media.api-sports.io/football/players/542548.png,Qatar,1569
+200981,Jassem Gaber,23.0,5.0,Midfielder,https://media.api-sports.io/football/players/200981.png,Qatar,1569
+2532,Boualem Khoukhi,35.0,16.0,Defender,https://media.api-sports.io/football/players/2532.png,Qatar,1569
+42288,Lucas Mendes,35.0,3.0,Defender,https://media.api-sports.io/football/players/42288.png,Qatar,1569
+366516,G. Laye,27.0,4.0,Midfielder,https://media.api-sports.io/football/players/366516.png,Qatar,1569
+2530,Pedro Miguel,35.0,2.0,Defender,https://media.api-sports.io/football/players/2530.png,Qatar,1569
+2535,Assim Madibo,29.0,23.0,Midfielder,https://media.api-sports.io/football/players/2535.png,Qatar,1569
+42286,Ahmed Al Ganehi,25.0,17.0,Attacker,https://media.api-sports.io/football/players/42286.png,Qatar,1569
+2533,Abdulaziz Hatem,35.0,6.0,Midfielder,https://media.api-sports.io/football/players/2533.png,Qatar,1569
+2537,Karim Boudiaf,35.0,12.0,Midfielder,https://media.api-sports.io/football/players/2537.png,Qatar,1569
+2539,Ahmed Fathi,32.0,20.0,Midfielder,https://media.api-sports.io/football/players/2539.png,Qatar,1569
+2545,Hassan Al Haydos,35.0,10.0,Attacker,https://media.api-sports.io/football/players/2545.png,Qatar,1569
+283174,Mohamed Al Manai,22.0,26.0,Midfielder,https://media.api-sports.io/football/players/283174.png,Qatar,1569
+542541,Y. Abdurisag,26.0,15.0,Attacker,https://media.api-sports.io/football/players/542541.png,Qatar,1569
+2544,Akram Afif,29.0,11.0,Attacker,https://media.api-sports.io/football/players/2544.png,Qatar,1569
+2542,Ahmed Alaa,32.0,7.0,Attacker,https://media.api-sports.io/football/players/2542.png,Qatar,1569
+2543,Almoez Ali,29.0,19.0,Attacker,https://media.api-sports.io/football/players/2543.png,Qatar,1569
+42075,Edmilson Junior,31.0,8.0,Attacker,https://media.api-sports.io/football/players/42075.png,Qatar,1569
+423737,Tahsin Jamshid,19.0,24.0,Attacker,https://media.api-sports.io/football/players/423737.png,Qatar,1569
+42089,Mohammed Muntari,32.0,9.0,Attacker,https://media.api-sports.io/football/players/42089.png,Qatar,1569
+304782,T. Hayakawa,26.0,23.0,Goalkeeper,https://media.api-sports.io/football/players/304782.png,Japan,12
+33034,K. Osako,26.0,12.0,Goalkeeper,https://media.api-sports.io/football/players/33034.png,Japan,12
+199578,Z. Suzuki,23.0,1.0,Goalkeeper,https://media.api-sports.io/football/players/199578.png,Japan,12
+38114,K. Itakura,28.0,4.0,Defender,https://media.api-sports.io/football/players/38114.png,Japan,12
+32893,H. Ito,26.0,21.0,Defender,https://media.api-sports.io/football/players/32893.png,Japan,12
+440,Y. Nagatomo,39.0,5.0,Defender,https://media.api-sports.io/football/players/440.png,Japan,12
+33165,A. Seko,25.0,20.0,Defender,https://media.api-sports.io/football/players/33165.png,Japan,12
+32887,Y. Sugawara,25.0,2.0,Defender,https://media.api-sports.io/football/players/32887.png,Japan,12
+351014,J. Suzuki,22.0,25.0,Defender,https://media.api-sports.io/football/players/351014.png,Japan,12
+32954,S. Taniguchi,34.0,3.0,Defender,https://media.api-sports.io/football/players/32954.png,Japan,12
+2597,T. Tomiyasu,27.0,15.0,Defender,https://media.api-sports.io/football/players/2597.png,Japan,12
+32858,T. Watanabe,28.0,16.0,Defender,https://media.api-sports.io/football/players/32858.png,Japan,12
+2598,R. Doan,27.0,10.0,Midfielder,https://media.api-sports.io/football/players/2598.png,Japan,12
+8500,W. Endo,32.0,6.0,Midfielder,https://media.api-sports.io/football/players/8500.png,Japan,12
+2601,D. Kamada,29.0,15.0,Midfielder,https://media.api-sports.io/football/players/2601.png,Japan,12
+33889,K. Sano,25.0,24.0,Midfielder,https://media.api-sports.io/football/players/33889.png,Japan,12
+32966,A. Tanaka,27.0,7.0,Midfielder,https://media.api-sports.io/football/players/32966.png,Japan,12
+1942,J. Ito,32.0,14.0,Attacker,https://media.api-sports.io/football/players/1942.png,Japan,12
+32862,T. Kubo,24.0,8.0,Attacker,https://media.api-sports.io/football/players/32862.png,Japan,12
+33224,D. Maeda,28.0,11.0,Attacker,https://media.api-sports.io/football/players/33224.png,Japan,12
+33321,Keito Nakamura,25.0,13.0,Midfielder,https://media.api-sports.io/football/players/33321.png,Japan,12
+199143,Y. Suzuki,24.0,17.0,Midfielder,https://media.api-sports.io/football/players/199143.png,Japan,12
+375930,K. Goto,20.0,9.0,Attacker,https://media.api-sports.io/football/players/375930.png,Japan,12
+33289,Koki Ogawa,28.0,19.0,Attacker,https://media.api-sports.io/football/players/33289.png,Japan,12
+422572,K. Shiogai,20.0,26.0,Attacker,https://media.api-sports.io/football/players/422572.png,Japan,12
+72155,A. Ueda,27.0,18.0,Attacker,https://media.api-sports.io/football/players/72155.png,Japan,12
+2701,Y. Bounou,34.0,1.0,Goalkeeper,https://media.api-sports.io/football/players/2701.png,Morocco,31
+2702,M. Mohamedi,36.0,12.0,Goalkeeper,https://media.api-sports.io/football/players/2702.png,Morocco,31
+2703,A. Tagnaouti,29.0,22.0,Goalkeeper,https://media.api-sports.io/football/players/2703.png,Morocco,31
+21694,N. Aguerd,29.0,5.0,Defender,https://media.api-sports.io/football/players/21694.png,Morocco,31
+18814,I. Diop,28.0,14.0,Defender,https://media.api-sports.io/football/players/18814.png,Morocco,31
+283252,Z. El Ouahdi,24.0,13.0,Defender,https://media.api-sports.io/football/players/283252.png,Morocco,31
+9,A. Hakimi,27.0,2.0,Defender,https://media.api-sports.io/football/players/9.png,Morocco,31
+326183,R. Halhal,22.0,25.0,Defender,https://media.api-sports.io/football/players/326183.png,Morocco,31
+545,N. Mazraoui,28.0,3.0,Defender,https://media.api-sports.io/football/players/545.png,Morocco,31
+278898,C. Riad,22.0,18.0,Defender,https://media.api-sports.io/football/players/278898.png,Morocco,31
+162451,A. Salah-Eddine,24.0,26.0,Defender,https://media.api-sports.io/football/players/162451.png,Morocco,31
+146772,Y. Belammari,27.0,19.0,Defender,https://media.api-sports.io/football/players/146772.png,Morocco,31
+74,S. Amrabat,29.0,4.0,Midfielder,https://media.api-sports.io/football/players/74.png,Morocco,31
+438688,A. Bouaddi,18.0,6.0,Midfielder,https://media.api-sports.io/football/players/438688.png,Morocco,31
+277003,N. El Aynaoui,24.0,24.0,Midfielder,https://media.api-sports.io/football/players/277003.png,Morocco,31
+340573,B. El Khannouss,21.0,23.0,Midfielder,https://media.api-sports.io/football/players/340573.png,Morocco,31
+415431,S. El Mourabet,20.0,15.0,Midfielder,https://media.api-sports.io/football/players/415431.png,Morocco,31
+129678,A. Ounahi,25.0,8.0,Midfielder,https://media.api-sports.io/football/players/129678.png,Morocco,31
+161897,I. Saibari,24.0,11.0,Attacker,https://media.api-sports.io/football/players/161897.png,Morocco,31
+336659,C. Talbi,20.0,7.0,Midfielder,https://media.api-sports.io/football/players/336659.png,Morocco,31
+369544,Gessime Yassine,20.0,16.0,Attacker,https://media.api-sports.io/football/players/369544.png,Morocco,31
+744,Brahim Díaz,26.0,10.0,Midfielder,https://media.api-sports.io/football/players/744.png,Morocco,31
+535046,A. Amaimouni,20.0,21.0,Midfielder,https://media.api-sports.io/football/players/535046.png,Morocco,31
+2722,A. El Kaabi,32.0,20.0,Attacker,https://media.api-sports.io/football/players/2722.png,Morocco,31
+181421,A. Ezzalzouli,24.0,17.0,Midfielder,https://media.api-sports.io/football/players/181421.png,Morocco,31
+36579,S. Rahimi,29.0,9.0,Attacker,https://media.api-sports.io/football/players/36579.png,Morocco,31
+2481,Á. Montero,30.0,24.0,Goalkeeper,https://media.api-sports.io/football/players/2481.png,Colombia,8
+313,D. Ospina,37.0,1.0,Goalkeeper,https://media.api-sports.io/football/players/313.png,Colombia,8
+2482,C. Vargas,36.0,12.0,Goalkeeper,https://media.api-sports.io/football/players/2482.png,Colombia,8
+30,S. Arias,33.0,4.0,Defender,https://media.api-sports.io/football/players/30.png,Colombia,8
+13571,W. Ditta,28.0,18.0,Defender,https://media.api-sports.io/football/players/13571.png,Colombia,8
+1929,J. Lucumí,27.0,3.0,Defender,https://media.api-sports.io/football/players/1929.png,Colombia,8
+2483,D. Machado,32.0,22.0,Defender,https://media.api-sports.io/football/players/2483.png,Colombia,8
+2484,Y. Mina,31.0,13.0,Defender,https://media.api-sports.io/football/players/2484.png,Colombia,8
+64268,J. Mojica,33.0,17.0,Defender,https://media.api-sports.io/football/players/64268.png,Colombia,8
+13736,D. Muñoz,29.0,2.0,Defender,https://media.api-sports.io/football/players/13736.png,Colombia,8
+324034,G. Puerta,22.0,14.0,Midfielder,https://media.api-sports.io/football/players/324034.png,Colombia,8
+168,D. Sánchez,29.0,23.0,Defender,https://media.api-sports.io/football/players/168.png,Colombia,8
+289592,K. Castaño,25.0,5.0,Midfielder,https://media.api-sports.io/football/players/289592.png,Colombia,8
+2490,J. Lerma,31.0,16.0,Midfielder,https://media.api-sports.io/football/players/2490.png,Colombia,8
+13151,J. Portilla,27.0,15.0,Midfielder,https://media.api-sports.io/football/players/13151.png,Colombia,8
+13708,J. Arias,28.0,11.0,Midfielder,https://media.api-sports.io/football/players/13708.png,Colombia,8
+5994,J. Carrascal,27.0,8.0,Midfielder,https://media.api-sports.io/football/players/5994.png,Colombia,8
+6005,J. Quintero,32.0,20.0,Midfielder,https://media.api-sports.io/football/players/6005.png,Colombia,8
+195104,R. Rios,25.0,6.0,Midfielder,https://media.api-sports.io/football/players/195104.png,Colombia,8
+517,J. Rodríguez,34.0,10.0,Midfielder,https://media.api-sports.io/football/players/517.png,Colombia,8
+13376,J. Campaz,25.0,21.0,Midfielder,https://media.api-sports.io/football/players/13376.png,Colombia,8
+24810,J. Córdoba,32.0,9.0,Attacker,https://media.api-sports.io/football/players/24810.png,Colombia,8
+47582,C. Hernández,26.0,19.0,Attacker,https://media.api-sports.io/football/players/47582.png,Colombia,8
+2489,L. Díaz,28.0,7.0,Midfielder,https://media.api-sports.io/football/players/2489.png,Colombia,8
+345748,A. Gómez,23.0,26.0,Midfielder,https://media.api-sports.io/football/players/345748.png,Colombia,8
+47237,L. Suárez,28.0,25.0,Attacker,https://media.api-sports.io/football/players/47237.png,Colombia,8
+19088,D. Henderson,28.0,13.0,Goalkeeper,https://media.api-sports.io/football/players/19088.png,England,10
+2932,J. Pickford,31.0,1.0,Goalkeeper,https://media.api-sports.io/football/players/2932.png,England,10
+162489,J. Trafford,23.0,23.0,Goalkeeper,https://media.api-sports.io/football/players/162489.png,England,10
+18961,D. Burn,33.0,15.0,Defender,https://media.api-sports.io/football/players/18961.png,England,10
+67971,M. Guéhi,25.0,6.0,Defender,https://media.api-sports.io/football/players/67971.png,England,10
+19545,R. James,26.0,24.0,Defender,https://media.api-sports.io/football/players/19545.png,England,10
+19354,E. Konsa,28.0,2.0,Defender,https://media.api-sports.io/football/players/19354.png,England,10
+158694,T. Livramento,23.0,12.0,Defender,https://media.api-sports.io/football/players/158694.png,England,10
+307123,N. Oreilly,20.0,3.0,Defender,https://media.api-sports.io/football/players/307123.png,England,10
+158698,J. Quansah,22.0,26.0,Defender,https://media.api-sports.io/football/players/158698.png,England,10
+19235,D. Spence,25.0,25.0,Defender,https://media.api-sports.io/football/players/19235.png,England,10
+626,J. Stones,31.0,5.0,Defender,https://media.api-sports.io/football/players/626.png,England,10
+138908,E. Anderson,23.0,8.0,Midfielder,https://media.api-sports.io/football/players/138908.png,England,10
+129718,J. Bellingham,22.0,10.0,Midfielder,https://media.api-sports.io/football/players/129718.png,England,10
+19586,E. Eze,27.0,21.0,Midfielder,https://media.api-sports.io/football/players/19586.png,England,10
+292,J. Henderson,35.0,14.0,Midfielder,https://media.api-sports.io/football/players/292.png,England,10
+284322,K. Mainoo,20.0,16.0,Midfielder,https://media.api-sports.io/football/players/284322.png,England,10
+2937,D. Rice,26.0,4.0,Midfielder,https://media.api-sports.io/football/players/2937.png,England,10
+19170,M. Rogers,23.0,17.0,Midfielder,https://media.api-sports.io/football/players/19170.png,England,10
+138787,A. Gordon,24.0,18.0,Attacker,https://media.api-sports.io/football/players/138787.png,England,10
+184,H. Kane,32.0,9.0,Attacker,https://media.api-sports.io/football/players/184.png,England,10
+136723,N. Madueke,23.0,20.0,Attacker,https://media.api-sports.io/football/players/136723.png,England,10
+909,M. Rashford,28.0,11.0,Midfielder,https://media.api-sports.io/football/players/909.png,England,10
+1460,B. Saka,24.0,7.0,Attacker,https://media.api-sports.io/football/players/1460.png,England,10
+19974,I. Toney,29.0,22.0,Attacker,https://media.api-sports.io/football/players/19974.png,England,10
+19366,O. Watkins,30.0,19.0,Midfielder,https://media.api-sports.io/football/players/19366.png,England,10
+182718,Joan García,24.0,13.0,Goalkeeper,https://media.api-sports.io/football/players/182718.png,Spain,9
+19465,David Raya,30.0,1.0,Goalkeeper,https://media.api-sports.io/football/players/19465.png,Spain,9
+47270,Unai Simón,28.0,23.0,Goalkeeper,https://media.api-sports.io/football/players/47270.png,Spain,9
+396623,Pau Cubarsí Paredes,18.0,22.0,Defender,https://media.api-sports.io/football/players/396623.png,Spain,9
+47380,Marc Cucurella,27.0,24.0,Defender,https://media.api-sports.io/football/players/47380.png,Spain,9
+619,Eric García,24.0,4.0,Defender,https://media.api-sports.io/football/players/619.png,Spain,9
+563,Álex Grimaldo,30.0,3.0,Defender,https://media.api-sports.io/football/players/563.png,Spain,9
+622,Aymeric Laporte,31.0,14.0,Defender,https://media.api-sports.io/football/players/622.png,Spain,9
+753,Marcos Llorente,30.0,5.0,Midfielder,https://media.api-sports.io/football/players/753.png,Spain,9
+47519,Pedro Porro,26.0,12.0,Defender,https://media.api-sports.io/football/players/47519.png,Spain,9
+295793,Marc Pubill,22.0,2.0,Defender,https://media.api-sports.io/football/players/295793.png,Spain,9
+296667,Gavi,21.0,9.0,Midfielder,https://media.api-sports.io/football/players/296667.png,Spain,9
+47311,Mikel Merino,29.0,6.0,Midfielder,https://media.api-sports.io/football/players/47311.png,Spain,9
+133609,Pedri,23.0,20.0,Midfielder,https://media.api-sports.io/football/players/133609.png,Spain,9
+44,Rodri,29.0,16.0,Midfielder,https://media.api-sports.io/football/players/44.png,Spain,9
+328,Fabián Ruiz,29.0,8.0,Midfielder,https://media.api-sports.io/football/players/328.png,Spain,9
+47315,Martín Zubimendi,26.0,18.0,Midfielder,https://media.api-sports.io/football/players/47315.png,Spain,9
+182219,Álex Baena,24.0,15.0,Midfielder,https://media.api-sports.io/football/players/182219.png,Spain,9
+1323,Dani Olmo,27.0,10.0,Midfielder,https://media.api-sports.io/football/players/1323.png,Spain,9
+47348,Borja Iglesias,32.0,26.0,Attacker,https://media.api-sports.io/football/players/47348.png,Spain,9
+386828,Lamine Yamal,18.0,19.0,Attacker,https://media.api-sports.io/football/players/386828.png,Spain,9
+338751,Víctor Muñoz,22.0,25.0,Attacker,https://media.api-sports.io/football/players/338751.png,Spain,9
+47323,Mikel Oyarzabal,28.0,21.0,Attacker,https://media.api-sports.io/football/players/47323.png,Spain,9
+184226,Yeremy Pino,23.0,11.0,Midfielder,https://media.api-sports.io/football/players/184226.png,Spain,9
+931,Ferran Torres,25.0,7.0,Midfielder,https://media.api-sports.io/football/players/931.png,Spain,9
+183799,Nico Williams,23.0,17.0,Attacker,https://media.api-sports.io/football/players/183799.png,Spain,9
+4414,O. Benbot,31.0,16.0,Goalkeeper,https://media.api-sports.io/football/players/4414.png,Algeria,1532
+304229,M. Mastil,25.0,1.0,Goalkeeper,https://media.api-sports.io/football/players/304229.png,Algeria,1532
+732,L. Zidane,27.0,23.0,Goalkeeper,https://media.api-sports.io/football/players/732.png,Algeria,1532
+342740,A. Abada,26.0,3.0,Defender,https://media.api-sports.io/football/players/342740.png,Algeria,1532
+21138,R. Aït-Nouri,24.0,15.0,Defender,https://media.api-sports.io/football/players/21138.png,Algeria,1532
+4561,Z. Belaïd,27.0,5.0,Defender,https://media.api-sports.io/football/players/4561.png,Algeria,1532
+303362,R. Belghali,23.0,17.0,Defender,https://media.api-sports.io/football/players/303362.png,Algeria,1532
+2194,R. Bensebaïni,30.0,21.0,Defender,https://media.api-sports.io/football/players/2194.png,Algeria,1532
+20869,S. Chergui,26.0,26.0,Defender,https://media.api-sports.io/football/players/20869.png,Algeria,1532
+271539,J. Hadjam,22.0,13.0,Defender,https://media.api-sports.io/football/players/271539.png,Algeria,1532
+1567,A. Mandi,34.0,2.0,Defender,https://media.api-sports.io/football/players/1567.png,Algeria,1532
+4569,M. Tougai,26.0,4.0,Defender,https://media.api-sports.io/football/players/4569.png,Algeria,1532
+658,H. Aouar,27.0,8.0,Midfielder,https://media.api-sports.io/football/players/658.png,Algeria,1532
+409,N. Bentaleb,31.0,19.0,Midfielder,https://media.api-sports.io/football/players/409.png,Algeria,1532
+4399,H. Boudaoui,26.0,14.0,Midfielder,https://media.api-sports.io/football/players/4399.png,Algeria,1532
+380587,I. Maza,20.0,22.0,Midfielder,https://media.api-sports.io/football/players/380587.png,Algeria,1532
+327599,Y. Titraoui,22.0,24.0,Midfielder,https://media.api-sports.io/football/players/327599.png,Algeria,1532
+129047,R. Zerrouki,27.0,6.0,Midfielder,https://media.api-sports.io/football/players/129047.png,Algeria,1532
+276670,F. Chaïbi,23.0,10.0,Midfielder,https://media.api-sports.io/football/players/276670.png,Algeria,1532
+200139,M. Amoura,26.0,18.0,Attacker,https://media.api-sports.io/football/players/200139.png,Algeria,1532
+292924,A. Benbouali,26.0,12.0,Attacker,https://media.api-sports.io/football/players/292924.png,Algeria,1532
+329163,A. Boulbina,22.0,20.0,Attacker,https://media.api-sports.io/football/players/329163.png,Algeria,1532
+334915,F. Ghedjemis,23.0,25.0,Attacker,https://media.api-sports.io/football/players/334915.png,Algeria,1532
+85041,A. Gouiri,25.0,9.0,Attacker,https://media.api-sports.io/football/players/85041.png,Algeria,1532
+326067,A. Hadj-Moussa,23.0,11.0,Attacker,https://media.api-sports.io/football/players/326067.png,Algeria,1532
+635,R. Mahrez,34.0,7.0,Attacker,https://media.api-sports.io/football/players/635.png,Algeria,1532
+535737,R. Fernandez,37.0,1.0,Goalkeeper,https://media.api-sports.io/football/players/535737.png,Paraguay,2380
+70852,O. Gill,25.0,12.0,Goalkeeper,https://media.api-sports.io/football/players/70852.png,Paraguay,2380
+51733,G. Olveira,32.0,22.0,Goalkeeper,https://media.api-sports.io/football/players/51733.png,Paraguay,2380
+6168,O. Alderete,29.0,3.0,Defender,https://media.api-sports.io/football/players/6168.png,Paraguay,2380
+2499,J. Alonso,32.0,6.0,Defender,https://media.api-sports.io/football/players/2499.png,Paraguay,2380
+195992,J. Cáceres,25.0,4.0,Defender,https://media.api-sports.io/football/players/195992.png,Paraguay,2380
+2500,F. Balbuena,34.0,5.0,Defender,https://media.api-sports.io/football/players/2500.png,Paraguay,2380
+2502,G. Gómez,32.0,15.0,Defender,https://media.api-sports.io/football/players/2502.png,Paraguay,2380
+425020,A. Maidana,20.0,26.0,Defender,https://media.api-sports.io/football/players/425020.png,Paraguay,2380
+35808,G. Velázquez,34.0,2.0,Defender,https://media.api-sports.io/football/players/35808.png,Paraguay,2380
+70732,J. Canale,29.0,13.0,Defender,https://media.api-sports.io/football/players/70732.png,Paraguay,2380
+195107,D. Bobadilla,24.0,16.0,Midfielder,https://media.api-sports.io/football/players/195107.png,Paraguay,2380
+119128,G. Caballero,24.0,24.0,Midfielder,https://media.api-sports.io/football/players/119128.png,Paraguay,2380
+6236,A. Cubas,29.0,14.0,Midfielder,https://media.api-sports.io/football/players/6236.png,Paraguay,2380
+305832,M. Galarza,23.0,23.0,Midfielder,https://media.api-sports.io/football/players/305832.png,Paraguay,2380
+278370,D. Gómez,22.0,8.0,Midfielder,https://media.api-sports.io/football/players/278370.png,Paraguay,2380
+106485,Maurício,24.0,11.0,Midfielder,https://media.api-sports.io/football/players/106485.png,Paraguay,2380
+70767,B. Ojeda,25.0,20.0,Midfielder,https://media.api-sports.io/football/players/70767.png,Paraguay,2380
+196298,R. Sosa,26.0,7.0,Midfielder,https://media.api-sports.io/football/players/196298.png,Paraguay,2380
+2507,M. Almirón,31.0,10.0,Midfielder,https://media.api-sports.io/football/players/2507.png,Paraguay,2380
+2514,A. Romero,30.0,17.0,Attacker,https://media.api-sports.io/football/players/2514.png,Paraguay,2380
+95460,A. Arce,30.0,18.0,Attacker,https://media.api-sports.io/football/players/95460.png,Paraguay,2380
+6483,G. Ávalos,35.0,21.0,Attacker,https://media.api-sports.io/football/players/6483.png,Paraguay,2380
+70747,J. Enciso,21.0,19.0,Attacker,https://media.api-sports.io/football/players/70747.png,Paraguay,2380
+70670,I. Pitta,26.0,25.0,Attacker,https://media.api-sports.io/football/players/70670.png,Paraguay,2380
+2522,A. Sanabria,29.0,9.0,Attacker,https://media.api-sports.io/football/players/2522.png,Paraguay,2380
+64190,Y. Fofana,25.0,1.0,Goalkeeper,https://media.api-sports.io/football/players/64190.png,Ivory Coast,1501
+277046,M. Koné,23.0,16.0,Goalkeeper,https://media.api-sports.io/football/players/277046.png,Ivory Coast,1501
+30393,A. Lafont,26.0,23.0,Goalkeeper,https://media.api-sports.io/football/players/30393.png,Ivory Coast,1501
+135068,E. Agbadou,28.0,20.0,Defender,https://media.api-sports.io/football/players/135068.png,Ivory Coast,1501
+354753,O. Diomande,22.0,2.0,Defender,https://media.api-sports.io/football/players/354753.png,Ivory Coast,1501
+161747,G. Doué,23.0,17.0,Defender,https://media.api-sports.io/football/players/161747.png,Ivory Coast,1501
+22002,G. Konan,30.0,3.0,Defender,https://media.api-sports.io/football/players/22002.png,Ivory Coast,1501
+48119,O. Kossounou,24.0,7.0,Defender,https://media.api-sports.io/football/players/48119.png,Ivory Coast,1501
+1807,E. Ndicka,26.0,21.0,Defender,https://media.api-sports.io/football/players/1807.png,Ivory Coast,1501
+20836,C. Operi,28.0,13.0,Defender,https://media.api-sports.io/football/players/20836.png,Ivory Coast,1501
+30504,W. Singo,25.0,5.0,Defender,https://media.api-sports.io/football/players/30504.png,Ivory Coast,1501
+30807,S. Fofana,30.0,6.0,Midfielder,https://media.api-sports.io/football/players/30807.png,Ivory Coast,1501
+474591,C. Inao Oulai,19.0,26.0,Midfielder,https://media.api-sports.io/football/players/474591.png,Ivory Coast,1501
+1642,F. Kessié,29.0,8.0,Midfielder,https://media.api-sports.io/football/players/1642.png,Ivory Coast,1501
+22149,I. Sangaré,28.0,18.0,Midfielder,https://media.api-sports.io/football/players/22149.png,Ivory Coast,1501
+3243,J. Seri,34.0,4.0,Midfielder,https://media.api-sports.io/football/players/3243.png,Ivory Coast,1501
+263228,P. Guiagon,24.0,25.0,Midfielder,https://media.api-sports.io/football/players/263228.png,Ivory Coast,1501
+387643,B. Touré,19.0,24.0,Attacker,https://media.api-sports.io/football/players/387643.png,Ivory Coast,1501
+301771,S. Adingra,23.0,10.0,Attacker,https://media.api-sports.io/football/players/301771.png,Ivory Coast,1501
+275651,A. Bonny,22.0,9.0,Attacker,https://media.api-sports.io/football/players/275651.png,Ivory Coast,1501
+334429,O. Diakité,22.0,14.0,Midfielder,https://media.api-sports.io/football/players/334429.png,Ivory Coast,1501
+157997,A. Diallo,23.0,15.0,Attacker,https://media.api-sports.io/football/players/157997.png,Ivory Coast,1501
+513776,Y. Diomande,19.0,11.0,Midfielder,https://media.api-sports.io/football/players/513776.png,Ivory Coast,1501
+137303,E. Guessand,24.0,22.0,Attacker,https://media.api-sports.io/football/players/137303.png,Ivory Coast,1501
+3246,N. Pépé,30.0,19.0,Attacker,https://media.api-sports.io/football/players/3246.png,Ivory Coast,1501
+162707,E. Wahi,22.0,12.0,Attacker,https://media.api-sports.io/football/players/162707.png,Ivory Coast,1501
+550469,M. Alaa,26.0,26.0,Goalkeeper,https://media.api-sports.io/football/players/550469.png,Egypt,32
+16797,Mohamed El Shenawy,37.0,1.0,Goalkeeper,https://media.api-sports.io/football/players/16797.png,Egypt,32
+269174,Mostafa Shobeir,25.0,23.0,Goalkeeper,https://media.api-sports.io/football/players/269174.png,Egypt,32
+16831,Al Mahdi Soliman,38.0,16.0,Goalkeeper,https://media.api-sports.io/football/players/16831.png,Egypt,32
+269621,Hossam Abdelmaguid,24.0,4.0,Defender,https://media.api-sports.io/football/players/269621.png,Egypt,32
+196343,Mohamed Abdelmonem,26.0,6.0,Defender,https://media.api-sports.io/football/players/196343.png,Egypt,32
+2649,Ahmed Fatouh,27.0,13.0,Defender,https://media.api-sports.io/football/players/2649.png,Egypt,32
+2656,Karim Hafez,29.0,15.0,Defender,https://media.api-sports.io/football/players/2656.png,Egypt,32
+2654,Mohamed Hany,29.0,3.0,Defender,https://media.api-sports.io/football/players/2654.png,Egypt,32
+16804,Yasser Ibrahim,32.0,2.0,Defender,https://media.api-sports.io/football/players/16804.png,Egypt,32
+16805,Rami Rabia,32.0,5.0,Defender,https://media.api-sports.io/football/players/16805.png,Egypt,32
+550371,T. Alaa,23.0,24.0,Defender,https://media.api-sports.io/football/players/550371.png,Egypt,32
+17269,Emam Ashour,27.0,8.0,Midfielder,https://media.api-sports.io/football/players/17269.png,Egypt,32
+190575,Marwan Attia,27.0,19.0,Midfielder,https://media.api-sports.io/football/players/190575.png,Egypt,32
+2660,Nabil Emad Dunga,29.0,18.0,Midfielder,https://media.api-sports.io/football/players/2660.png,Egypt,32
+16813,Hamdi Fathy,31.0,14.0,Defender,https://media.api-sports.io/football/players/16813.png,Egypt,32
+16841,Mohanad Lasheen,29.0,17.0,Midfielder,https://media.api-sports.io/football/players/16841.png,Egypt,32
+69196,Mahmoud Saber,24.0,21.0,Midfielder,https://media.api-sports.io/football/players/69196.png,Egypt,32
+395075,Mostafa Zico,28.0,11.0,Midfielder,https://media.api-sports.io/football/players/395075.png,Egypt,32
+2664,Trézéguet,31.0,7.0,Midfielder,https://media.api-sports.io/football/players/2664.png,Egypt,32
+20844,H. Hassan,23.0,12.0,Midfielder,https://media.api-sports.io/football/players/20844.png,Egypt,32
+664079,Ahmed Zizo,30.0,25.0,Attacker,https://media.api-sports.io/football/players/664079.png,Egypt,32
+550547,H. Abdelkarim,17.0,9.0,Attacker,https://media.api-sports.io/football/players/550547.png,Egypt,32
+70535,Ibrahim Adel,24.0,20.0,Attacker,https://media.api-sports.io/football/players/70535.png,Egypt,32
+81573,Omar Marmoush,26.0,22.0,Attacker,https://media.api-sports.io/football/players/81573.png,Egypt,32
+306,Mohamed Salah,33.0,10.0,Attacker,https://media.api-sports.io/football/players/306.png,Egypt,32
+193288,Nawaf Al Aqidi,25.0,1.0,Goalkeeper,https://media.api-sports.io/football/players/193288.png,Saudi Arabia,23
+44449,Ahmed Al Kassar,34.0,22.0,Goalkeeper,https://media.api-sports.io/football/players/44449.png,Saudi Arabia,23
+44411,Mohammed Al Owais,34.0,21.0,Goalkeeper,https://media.api-sports.io/football/players/44411.png,Saudi Arabia,23
+44594,Saud Abdulhamid,26.0,12.0,Defender,https://media.api-sports.io/football/players/44594.png,Saudi Arabia,23
+403087,Mohammed Abu Al Shamat,23.0,26.0,Midfielder,https://media.api-sports.io/football/players/403087.png,Saudi Arabia,23
+134995,Nawaf Boushal,26.0,13.0,Defender,https://media.api-sports.io/football/players/134995.png,Saudi Arabia,23
+44475,Abdulelah Al Amri,28.0,4.0,Defender,https://media.api-sports.io/football/players/44475.png,Saudi Arabia,23
+202381,Moteb Al Harbi,25.0,24.0,Defender,https://media.api-sports.io/football/players/202381.png,Saudi Arabia,23
+44335,Hassan Kadesh,33.0,14.0,Defender,https://media.api-sports.io/football/players/44335.png,Saudi Arabia,23
+44507,Ali Lajami,29.0,3.0,Defender,https://media.api-sports.io/football/players/44507.png,Saudi Arabia,23
+44367,Ali Majrashi,26.0,2.0,Defender,https://media.api-sports.io/football/players/44367.png,Saudi Arabia,23
+44362,Hassan Tambakti,26.0,5.0,Defender,https://media.api-sports.io/football/players/44362.png,Saudi Arabia,23
+543059,J. Thakri,24.0,25.0,Defender,https://media.api-sports.io/football/players/543059.png,Saudi Arabia,23
+44339,Nasser Al Dawsari,27.0,6.0,Midfielder,https://media.api-sports.io/football/players/44339.png,Saudi Arabia,23
+44349,Mohamed Kanno,31.0,28.0,Midfielder,https://media.api-sports.io/football/players/44349.png,Saudi Arabia,23
+269172,Ziyad Al Johani,24.0,16.0,Midfielder,https://media.api-sports.io/football/players/269172.png,Saudi Arabia,23
+306380,Musab Al Juwayr,22.0,7.0,Attacker,https://media.api-sports.io/football/players/306380.png,Saudi Arabia,23
+44315,Abdullah Al Khaibari,29.0,15.0,Midfielder,https://media.api-sports.io/football/players/44315.png,Saudi Arabia,23
+593759,Ala Al Haji,29.0,30.0,Midfielder,https://media.api-sports.io/football/players/593759.png,Saudi Arabia,23
+44701,Khalid Al Ghannam,25.0,17.0,Attacker,https://media.api-sports.io/football/players/44701.png,Saudi Arabia,23
+2639,Sultan Mandash,31.0,27.0,Attacker,https://media.api-sports.io/football/players/2639.png,Saudi Arabia,23
+147812,Ayman Yahya,24.0,8.0,Attacker,https://media.api-sports.io/football/players/147812.png,Saudi Arabia,23
+44324,Feras Al Brikan,25.0,9.0,Attacker,https://media.api-sports.io/football/players/44324.png,Saudi Arabia,23
+44382,Abdullah Al Hamdan,26.0,19.0,Attacker,https://media.api-sports.io/football/players/44382.png,Saudi Arabia,23
+44551,Saleh Al Shehri,32.0,11.0,Attacker,https://media.api-sports.io/football/players/44551.png,Saudi Arabia,23
+44340,Salem Al Dawsari,34.0,10.0,Midfielder,https://media.api-sports.io/football/players/44340.png,Saudi Arabia,23
+280,Alisson Becker,33.0,1.0,Goalkeeper,https://media.api-sports.io/football/players/280.png,Brazil,6
+617,Ederson,32.0,23.0,Goalkeeper,https://media.api-sports.io/football/players/617.png,Brazil,6
+2410,Weverton,38.0,12.0,Goalkeeper,https://media.api-sports.io/football/players/2410.png,Brazil,6
+860,Alex Sandro,34.0,6.0,Defender,https://media.api-sports.io/football/players/860.png,Brazil,6
+30497,Bremer,28.0,14.0,Defender,https://media.api-sports.io/football/players/30497.png,Brazil,6
+22224,Gabriel Magalhães,28.0,3.0,Defender,https://media.api-sports.io/football/players/22224.png,Brazil,6
+30424,Ibañez,27.0,24.0,Defender,https://media.api-sports.io/football/players/30424.png,Brazil,6
+10124,Léo Pereira,29.0,15.0,Defender,https://media.api-sports.io/football/players/10124.png,Brazil,6
+257,Marquinhos,31.0,4.0,Defender,https://media.api-sports.io/football/players/257.png,Brazil,6
+24866,Douglas Santos,31.0,16.0,Defender,https://media.api-sports.io/football/players/24866.png,Brazil,6
+349001,Wesley,22.0,2.0,Defender,https://media.api-sports.io/football/players/349001.png,Brazil,6
+618,Danilo,34.0,13.0,Defender,https://media.api-sports.io/football/players/618.png,Brazil,6
+10135,Bruno Guimarães,28.0,8.0,Midfielder,https://media.api-sports.io/football/players/10135.png,Brazil,6
+747,Casemiro,33.0,5.0,Midfielder,https://media.api-sports.io/football/players/747.png,Brazil,6
+299,Fabinho,32.0,17.0,Midfielder,https://media.api-sports.io/football/players/299.png,Brazil,6
+1646,Lucas Paquetá,28.0,20.0,Midfielder,https://media.api-sports.io/football/players/1646.png,Brazil,6
+275170,Danilo Santos,24.0,18.0,Midfielder,https://media.api-sports.io/football/players/275170.png,Brazil,6
+1165,Matheus Cunha,26.0,9.0,Attacker,https://media.api-sports.io/football/players/1165.png,Brazil,6
+377122,Endrick,19.0,19.0,Attacker,https://media.api-sports.io/football/players/377122.png,Brazil,6
+265785,Luiz Henrique,24.0,21.0,Midfielder,https://media.api-sports.io/football/players/265785.png,Brazil,6
+127769,Gabriel Martinelli,24.0,22.0,Attacker,https://media.api-sports.io/football/players/127769.png,Brazil,6
+276,Neymar,33.0,10.0,Attacker,https://media.api-sports.io/football/players/276.png,Brazil,6
+1496,Raphinha,29.0,11.0,Midfielder,https://media.api-sports.io/football/players/1496.png,Brazil,6
+407806,Rayan,19.0,26.0,Attacker,https://media.api-sports.io/football/players/407806.png,Brazil,6
+196156,Thiago,24.0,25.0,Attacker,https://media.api-sports.io/football/players/196156.png,Brazil,6
+762,Vinícius Júnior,25.0,7.0,Midfielder,https://media.api-sports.io/football/players/762.png,Brazil,6
+26232,M. Flekken,32.0,23.0,Goalkeeper,https://media.api-sports.io/football/players/26232.png,Netherlands,1118
+194536,R. Roefs,22.0,13.0,Goalkeeper,https://media.api-sports.io/football/players/194536.png,Netherlands,1118
+129058,B. Verbruggen,23.0,1.0,Goalkeeper,https://media.api-sports.io/football/players/129058.png,Netherlands,1118
+18861,N. Aké,30.0,5.0,Defender,https://media.api-sports.io/football/players/18861.png,Netherlands,1118
+226,D. Dumfries,29.0,22.0,Defender,https://media.api-sports.io/football/players/226.png,Netherlands,1118
+341642,J. Hato,19.0,25.0,Defender,https://media.api-sports.io/football/players/341642.png,Netherlands,1118
+38746,J. Timber,24.0,2.0,Defender,https://media.api-sports.io/football/players/38746.png,Netherlands,1118
+290,V. van Dijk,34.0,4.0,Defender,https://media.api-sports.io/football/players/290.png,Netherlands,1118
+38695,J. van Hecke,25.0,6.0,Defender,https://media.api-sports.io/football/players/38695.png,Netherlands,1118
+152849,M. van de Ven,24.0,15.0,Defender,https://media.api-sports.io/football/players/152849.png,Netherlands,1118
+92993,M. Wieffer,26.0,12.0,Defender,https://media.api-sports.io/football/players/92993.png,Netherlands,1118
+542,R. Gravenberch,23.0,8.0,Midfielder,https://media.api-sports.io/football/players/542.png,Netherlands,1118
+36899,T. Koopmeiners,27.0,20.0,Midfielder,https://media.api-sports.io/football/players/36899.png,Netherlands,1118
+36902,T. Reijnders,27.0,14.0,Midfielder,https://media.api-sports.io/football/players/36902.png,Netherlands,1118
+36905,G. Til,28.0,16.0,Midfielder,https://media.api-sports.io/football/players/36905.png,Netherlands,1118
+38747,Q. Timber,24.0,26.0,Midfielder,https://media.api-sports.io/football/players/38747.png,Netherlands,1118
+538,F. de Jong,28.0,21.0,Midfielder,https://media.api-sports.io/football/players/538.png,Netherlands,1118
+30432,M. de Roon,34.0,3.0,Midfielder,https://media.api-sports.io/football/players/30432.png,Netherlands,1118
+792,J. Kluivert,26.0,7.0,Attacker,https://media.api-sports.io/football/players/792.png,Netherlands,1118
+38750,B. Brobbey,23.0,19.0,Attacker,https://media.api-sports.io/football/players/38750.png,Netherlands,1118
+667,M. Depay,31.0,10.0,Attacker,https://media.api-sports.io/football/players/667.png,Netherlands,1118
+247,C. Gakpo,26.0,11.0,Attacker,https://media.api-sports.io/football/players/247.png,Netherlands,1118
+544,N. Lang,26.0,17.0,Attacker,https://media.api-sports.io/football/players/544.png,Netherlands,1118
+249,D. Malen,26.0,18.0,Attacker,https://media.api-sports.io/football/players/249.png,Netherlands,1118
+37724,C. Summerville,24.0,24.0,Attacker,https://media.api-sports.io/football/players/37724.png,Netherlands,1118
+25416,W. Weghorst,33.0,9.0,Attacker,https://media.api-sports.io/football/players/25416.png,Netherlands,1118
+702,O. Baumann,35.0,12.0,Goalkeeper,https://media.api-sports.io/football/players/702.png,Germany,25
+497,M. Neuer,39.0,1.0,Goalkeeper,https://media.api-sports.io/football/players/497.png,Germany,25
+399,A. Nübel,29.0,21.0,Goalkeeper,https://media.api-sports.io/football/players/399.png,Germany,25
+25368,W. Anton,29.0,3.0,Defender,https://media.api-sports.io/football/players/25368.png,Germany,25
+280074,N. Brown,22.0,18.0,Defender,https://media.api-sports.io/football/players/280074.png,Germany,25
+25158,D. Raum,27.0,22.0,Defender,https://media.api-sports.io/football/players/25158.png,Germany,25
+2285,A. Rüdiger,32.0,2.0,Defender,https://media.api-sports.io/football/players/2285.png,Germany,25
+26243,N. Schlotterbeck,26.0,15.0,Defender,https://media.api-sports.io/football/players/26243.png,Germany,25
+972,J. Tah,29.0,4.0,Defender,https://media.api-sports.io/football/players/972.png,Germany,25
+163189,M. Thiaw,24.0,24.0,Defender,https://media.api-sports.io/football/players/163189.png,Germany,25
+502,J. Kimmich,30.0,6.0,Defender,https://media.api-sports.io/football/players/502.png,Germany,25
+714,N. Amiri,29.0,20.0,Midfielder,https://media.api-sports.io/football/players/714.png,Germany,25
+511,L. Goretzka,30.0,8.0,Midfielder,https://media.api-sports.io/football/players/511.png,Germany,25
+18970,P. Groß,34.0,13.0,Midfielder,https://media.api-sports.io/football/players/18970.png,Germany,25
+494131,L. Karl,17.0,25.0,Midfielder,https://media.api-sports.io/football/players/494131.png,Germany,25
+128533,J. Leweling,24.0,9.0,Attacker,https://media.api-sports.io/football/players/128533.png,Germany,25
+181812,J. Musiala,22.0,10.0,Midfielder,https://media.api-sports.io/football/players/181812.png,Germany,25
+637,F. Nmecha,25.0,23.0,Midfielder,https://media.api-sports.io/football/players/637.png,Germany,25
+328033,A. Pavlovic,21.0,5.0,Midfielder,https://media.api-sports.io/football/players/328033.png,Germany,25
+644,L. Sané,30.0,19.0,Midfielder,https://media.api-sports.io/football/players/644.png,Germany,25
+137210,A. Stiller,24.0,16.0,Midfielder,https://media.api-sports.io/football/players/137210.png,Germany,25
+203224,F. Wirtz,22.0,17.0,Midfielder,https://media.api-sports.io/football/players/203224.png,Germany,25
+978,K. Havertz,26.0,7.0,Attacker,https://media.api-sports.io/football/players/978.png,Germany,25
+158644,M. Beier,23.0,14.0,Attacker,https://media.api-sports.io/football/players/158644.png,Germany,25
+26475,D. Undav,29.0,26.0,Attacker,https://media.api-sports.io/football/players/26475.png,Germany,25
+158054,N. Woltemade,23.0,11.0,Attacker,https://media.api-sports.io/football/players/158054.png,Germany,25
