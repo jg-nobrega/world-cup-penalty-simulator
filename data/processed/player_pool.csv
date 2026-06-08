@@ -1,0 +1,477 @@
+player_id,name,position,team_name,team_id
+16470,J. Alcívar,Midfielder,Ecuador,2382
+116117,M. Caicedo,Midfielder,Ecuador,2382
+338045,D. Castillo,Midfielder,Ecuador,2382
+16360,A. Franco,Midfielder,Ecuador,2382
+406303,K. Páez,Midfielder,Ecuador,2382
+280695,A. Minda,Midfielder,Ecuador,2382
+198347,A. Valencia,Midfielder,Ecuador,2382
+237078,P. Vite,Midfielder,Ecuador,2382
+361966,K. Rodríguez,Attacker,Ecuador,2382
+25414,J. Yeboah,Midfielder,Ecuador,2382
+311543,N. Angulo,Midfielder,Ecuador,2382
+16590,J. Caicedo,Attacker,Ecuador,2382
+350799,Jeremy Arévalo,Attacker,Ecuador,2382
+16369,G. Plata,Attacker,Ecuador,2382
+35533,E. Valencia,Attacker,Ecuador,2382
+1125,R. Christie,Midfielder,Scotland,1108
+44814,L. Ferguson,Midfielder,Scotland,1108
+557460,T. Fletcher,Midfielder,Scotland,1108
+19191,J.  McGinn,Midfielder,Scotland,1108
+19077,K. McLean,Midfielder,Scotland,1108
+903,S. McTominay,Midfielder,Scotland,1108
+19524,C. Adams,Attacker,Scotland,1108
+45307,L. Dykes,Attacker,Scotland,1108
+343576,B. Doak,Midfielder,Scotland,1108
+8794,G. Hirst,Attacker,Scotland,1108
+45175,L. Shankland,Attacker,Scotland,1108
+45078,R. Stewart,Attacker,Scotland,1108
+433272,Findlay Curtis,Attacker,Scotland,1108
+156477,R. Cherki,Midfielder,France,2
+2290,N. Kanté,Midfielder,France,2
+22147,M. Koné,Midfielder,France,2
+272,A. Rabiot,Midfielder,France,2
+1271,A. Tchouaméni,Midfielder,France,2
+336657,W. Zaïre-Emery,Midfielder,France,2
+274300,M. Akliouche,Midfielder,France,2
+161904,B. Barcola,Attacker,France,2
+25927,J. Mateta,Attacker,France,2
+153,O. Dembélé,Attacker,France,2
+343027,D. Doué,Attacker,France,2
+278,Kylian Mbappé,Attacker,France,2
+21509,M. Thuram,Midfielder,France,2
+19617,M. Olise,Midfielder,France,2
+290835,M. Hahn,Midfielder,New Zealand W,1716
+613619,D. Jackson,Midfielder,New Zealand W,1716
+567271,K. Kitching,Midfielder,New Zealand W,1716
+69003,A. Longo,Midfielder,New Zealand W,1716
+614840,Emma Pijnenberg,Midfielder,New Zealand W,1716
+613698,L. Wall,Midfielder,New Zealand W,1716
+530630,G. Wisnewski,Midfielder,New Zealand W,1716
+562020,H. Blake,Attacker,New Zealand W,1716
+613599,K. Brown,Attacker,New Zealand W,1716
+348661,G. Jale,Attacker,New Zealand W,1716
+379900,E. Clegg,Attacker,New Zealand W,1716
+323341,G. Rennie,Attacker,New Zealand W,1716
+76185,I. Riley,Attacker,New Zealand W,1716
+580979,P. Vlok,Attacker,New Zealand W,1716
+99211,Park Jin-Seop,Midfielder,South Korea,17
+237220,Lee Tae-Seok,Midfielder,South Korea,17
+197985,Seol Young-Woo,Midfielder,South Korea,17
+280358,J. Castrop,Midfielder,South Korea,17
+357286,Bae Jun-Ho,Attacker,South Korea,17
+237050,Eom Ji-Sung,Attacker,South Korea,17
+2901,Hwang In-Beom,Midfielder,South Korea,17
+34168,Kim Jin-Gyu,Midfielder,South Korea,17
+34431,Lee Dong-Gyeong,Attacker,South Korea,17
+2906,Lee Jae-Sung,Midfielder,South Korea,17
+927,Lee Kang-In,Midfielder,South Korea,17
+2909,Paik Seung-Ho,Midfielder,South Korea,17
+304958,Yang Hyun-Jun,Attacker,South Korea,17
+24888,Hwang Hee-Chan,Attacker,South Korea,17
+34211,Cho Gue-Sung,Attacker,South Korea,17
+34710,Oh Hyeon-Gyu,Attacker,South Korea,17
+186,Son Heung-Min,Attacker,South Korea,17
+200981,Jassem Gaber,Midfielder,Qatar,1569
+366516,G. Laye,Midfielder,Qatar,1569
+2535,Assim Madibo,Midfielder,Qatar,1569
+42286,Ahmed Al Ganehi,Attacker,Qatar,1569
+2533,Abdulaziz Hatem,Midfielder,Qatar,1569
+2537,Karim Boudiaf,Midfielder,Qatar,1569
+2539,Ahmed Fathi,Midfielder,Qatar,1569
+2545,Hassan Al Haydos,Attacker,Qatar,1569
+283174,Mohamed Al Manai,Midfielder,Qatar,1569
+542541,Y. Abdurisag,Attacker,Qatar,1569
+2544,Akram Afif,Attacker,Qatar,1569
+2542,Ahmed Alaa,Attacker,Qatar,1569
+2543,Almoez Ali,Attacker,Qatar,1569
+42075,Edmilson Junior,Attacker,Qatar,1569
+423737,Tahsin Jamshid,Attacker,Qatar,1569
+42089,Mohammed Muntari,Attacker,Qatar,1569
+2598,R. Doan,Midfielder,Japan,12
+8500,W. Endo,Midfielder,Japan,12
+2601,D. Kamada,Midfielder,Japan,12
+33889,K. Sano,Midfielder,Japan,12
+32966,A. Tanaka,Midfielder,Japan,12
+1942,J. Ito,Attacker,Japan,12
+32862,T. Kubo,Attacker,Japan,12
+33224,D. Maeda,Attacker,Japan,12
+33321,Keito Nakamura,Midfielder,Japan,12
+199143,Y. Suzuki,Midfielder,Japan,12
+375930,K. Goto,Attacker,Japan,12
+33289,Koki Ogawa,Attacker,Japan,12
+422572,K. Shiogai,Attacker,Japan,12
+72155,A. Ueda,Attacker,Japan,12
+74,S. Amrabat,Midfielder,Morocco,31
+438688,A. Bouaddi,Midfielder,Morocco,31
+277003,N. El Aynaoui,Midfielder,Morocco,31
+340573,B. El Khannouss,Midfielder,Morocco,31
+415431,S. El Mourabet,Midfielder,Morocco,31
+129678,A. Ounahi,Midfielder,Morocco,31
+161897,I. Saibari,Attacker,Morocco,31
+336659,C. Talbi,Midfielder,Morocco,31
+369544,Gessime Yassine,Attacker,Morocco,31
+744,Brahim Díaz,Midfielder,Morocco,31
+535046,A. Amaimouni,Midfielder,Morocco,31
+2722,A. El Kaabi,Attacker,Morocco,31
+181421,A. Ezzalzouli,Midfielder,Morocco,31
+36579,S. Rahimi,Attacker,Morocco,31
+324034,G. Puerta,Midfielder,Colombia,8
+289592,K. Castaño,Midfielder,Colombia,8
+2490,J. Lerma,Midfielder,Colombia,8
+13151,J. Portilla,Midfielder,Colombia,8
+13708,J. Arias,Midfielder,Colombia,8
+5994,J. Carrascal,Midfielder,Colombia,8
+6005,J. Quintero,Midfielder,Colombia,8
+195104,R. Rios,Midfielder,Colombia,8
+517,J. Rodríguez,Midfielder,Colombia,8
+13376,J. Campaz,Midfielder,Colombia,8
+24810,J. Córdoba,Attacker,Colombia,8
+47582,C. Hernández,Attacker,Colombia,8
+2489,L. Díaz,Midfielder,Colombia,8
+345748,A. Gómez,Midfielder,Colombia,8
+47237,L. Suárez,Attacker,Colombia,8
+138908,E. Anderson,Midfielder,England,10
+129718,J. Bellingham,Midfielder,England,10
+19586,E. Eze,Midfielder,England,10
+292,J. Henderson,Midfielder,England,10
+284322,K. Mainoo,Midfielder,England,10
+2937,D. Rice,Midfielder,England,10
+19170,M. Rogers,Midfielder,England,10
+138787,A. Gordon,Attacker,England,10
+184,H. Kane,Attacker,England,10
+136723,N. Madueke,Attacker,England,10
+909,M. Rashford,Midfielder,England,10
+1460,B. Saka,Attacker,England,10
+19974,I. Toney,Attacker,England,10
+19366,O. Watkins,Midfielder,England,10
+753,Marcos Llorente,Midfielder,Spain,9
+296667,Gavi,Midfielder,Spain,9
+47311,Mikel Merino,Midfielder,Spain,9
+133609,Pedri,Midfielder,Spain,9
+44,Rodri,Midfielder,Spain,9
+328,Fabián Ruiz,Midfielder,Spain,9
+47315,Martín Zubimendi,Midfielder,Spain,9
+182219,Álex Baena,Midfielder,Spain,9
+1323,Dani Olmo,Midfielder,Spain,9
+47348,Borja Iglesias,Attacker,Spain,9
+386828,Lamine Yamal,Attacker,Spain,9
+338751,Víctor Muñoz,Attacker,Spain,9
+47323,Mikel Oyarzabal,Attacker,Spain,9
+184226,Yeremy Pino,Midfielder,Spain,9
+931,Ferran Torres,Midfielder,Spain,9
+183799,Nico Williams,Attacker,Spain,9
+658,H. Aouar,Midfielder,Algeria,1532
+409,N. Bentaleb,Midfielder,Algeria,1532
+4399,H. Boudaoui,Midfielder,Algeria,1532
+380587,I. Maza,Midfielder,Algeria,1532
+327599,Y. Titraoui,Midfielder,Algeria,1532
+129047,R. Zerrouki,Midfielder,Algeria,1532
+276670,F. Chaïbi,Midfielder,Algeria,1532
+200139,M. Amoura,Attacker,Algeria,1532
+292924,A. Benbouali,Attacker,Algeria,1532
+329163,A. Boulbina,Attacker,Algeria,1532
+334915,F. Ghedjemis,Attacker,Algeria,1532
+85041,A. Gouiri,Attacker,Algeria,1532
+326067,A. Hadj-Moussa,Attacker,Algeria,1532
+635,R. Mahrez,Attacker,Algeria,1532
+195107,D. Bobadilla,Midfielder,Paraguay,2380
+119128,G. Caballero,Midfielder,Paraguay,2380
+6236,A. Cubas,Midfielder,Paraguay,2380
+305832,M. Galarza,Midfielder,Paraguay,2380
+278370,D. Gómez,Midfielder,Paraguay,2380
+106485,Maurício,Midfielder,Paraguay,2380
+70767,B. Ojeda,Midfielder,Paraguay,2380
+196298,R. Sosa,Midfielder,Paraguay,2380
+2507,M. Almirón,Midfielder,Paraguay,2380
+2514,A. Romero,Attacker,Paraguay,2380
+95460,A. Arce,Attacker,Paraguay,2380
+6483,G. Ávalos,Attacker,Paraguay,2380
+70747,J. Enciso,Attacker,Paraguay,2380
+70670,I. Pitta,Attacker,Paraguay,2380
+2522,A. Sanabria,Attacker,Paraguay,2380
+30807,S. Fofana,Midfielder,Ivory Coast,1501
+474591,C. Inao Oulai,Midfielder,Ivory Coast,1501
+1642,F. Kessié,Midfielder,Ivory Coast,1501
+22149,I. Sangaré,Midfielder,Ivory Coast,1501
+3243,J. Seri,Midfielder,Ivory Coast,1501
+263228,P. Guiagon,Midfielder,Ivory Coast,1501
+387643,B. Touré,Attacker,Ivory Coast,1501
+301771,S. Adingra,Attacker,Ivory Coast,1501
+275651,A. Bonny,Attacker,Ivory Coast,1501
+334429,O. Diakité,Midfielder,Ivory Coast,1501
+157997,A. Diallo,Attacker,Ivory Coast,1501
+513776,Y. Diomande,Midfielder,Ivory Coast,1501
+137303,E. Guessand,Attacker,Ivory Coast,1501
+3246,N. Pépé,Attacker,Ivory Coast,1501
+162707,E. Wahi,Attacker,Ivory Coast,1501
+17269,Emam Ashour,Midfielder,Egypt,32
+190575,Marwan Attia,Midfielder,Egypt,32
+2660,Nabil Emad Dunga,Midfielder,Egypt,32
+16841,Mohanad Lasheen,Midfielder,Egypt,32
+69196,Mahmoud Saber,Midfielder,Egypt,32
+395075,Mostafa Zico,Midfielder,Egypt,32
+2664,Trézéguet,Midfielder,Egypt,32
+20844,H. Hassan,Midfielder,Egypt,32
+664079,Ahmed Zizo,Attacker,Egypt,32
+550547,H. Abdelkarim,Attacker,Egypt,32
+70535,Ibrahim Adel,Attacker,Egypt,32
+81573,Omar Marmoush,Attacker,Egypt,32
+306,Mohamed Salah,Attacker,Egypt,32
+403087,Mohammed Abu Al Shamat,Midfielder,Saudi Arabia,23
+44339,Nasser Al Dawsari,Midfielder,Saudi Arabia,23
+44349,Mohamed Kanno,Midfielder,Saudi Arabia,23
+269172,Ziyad Al Johani,Midfielder,Saudi Arabia,23
+306380,Musab Al Juwayr,Attacker,Saudi Arabia,23
+44315,Abdullah Al Khaibari,Midfielder,Saudi Arabia,23
+593759,Ala Al Haji,Midfielder,Saudi Arabia,23
+44701,Khalid Al Ghannam,Attacker,Saudi Arabia,23
+2639,Sultan Mandash,Attacker,Saudi Arabia,23
+147812,Ayman Yahya,Attacker,Saudi Arabia,23
+44324,Feras Al Brikan,Attacker,Saudi Arabia,23
+44382,Abdullah Al Hamdan,Attacker,Saudi Arabia,23
+44551,Saleh Al Shehri,Attacker,Saudi Arabia,23
+44340,Salem Al Dawsari,Midfielder,Saudi Arabia,23
+10135,Bruno Guimarães,Midfielder,Brazil,6
+747,Casemiro,Midfielder,Brazil,6
+299,Fabinho,Midfielder,Brazil,6
+1646,Lucas Paquetá,Midfielder,Brazil,6
+275170,Danilo Santos,Midfielder,Brazil,6
+1165,Matheus Cunha,Attacker,Brazil,6
+377122,Endrick,Attacker,Brazil,6
+265785,Luiz Henrique,Midfielder,Brazil,6
+127769,Gabriel Martinelli,Attacker,Brazil,6
+276,Neymar,Attacker,Brazil,6
+1496,Raphinha,Midfielder,Brazil,6
+407806,Rayan,Attacker,Brazil,6
+196156,Thiago,Attacker,Brazil,6
+762,Vinícius Júnior,Midfielder,Brazil,6
+542,R. Gravenberch,Midfielder,Netherlands,1118
+36899,T. Koopmeiners,Midfielder,Netherlands,1118
+36902,T. Reijnders,Midfielder,Netherlands,1118
+36905,G. Til,Midfielder,Netherlands,1118
+38747,Q. Timber,Midfielder,Netherlands,1118
+538,F. de Jong,Midfielder,Netherlands,1118
+30432,M. de Roon,Midfielder,Netherlands,1118
+792,J. Kluivert,Attacker,Netherlands,1118
+38750,B. Brobbey,Attacker,Netherlands,1118
+667,M. Depay,Attacker,Netherlands,1118
+247,C. Gakpo,Attacker,Netherlands,1118
+544,N. Lang,Attacker,Netherlands,1118
+249,D. Malen,Attacker,Netherlands,1118
+37724,C. Summerville,Attacker,Netherlands,1118
+25416,W. Weghorst,Attacker,Netherlands,1118
+714,N. Amiri,Midfielder,Germany,25
+511,L. Goretzka,Midfielder,Germany,25
+18970,P. Groß,Midfielder,Germany,25
+494131,L. Karl,Midfielder,Germany,25
+128533,J. Leweling,Attacker,Germany,25
+181812,J. Musiala,Midfielder,Germany,25
+637,F. Nmecha,Midfielder,Germany,25
+328033,A. Pavlovic,Midfielder,Germany,25
+644,L. Sané,Midfielder,Germany,25
+137210,A. Stiller,Midfielder,Germany,25
+203224,F. Wirtz,Midfielder,Germany,25
+978,K. Havertz,Attacker,Germany,25
+158644,M. Beier,Attacker,Germany,25
+26475,D. Undav,Attacker,Germany,25
+158054,N. Woltemade,Attacker,Germany,25
+158121,I. Jakobs,Midfielder,Senegal,13
+374058,L. Camara,Midfielder,Senegal,13
+41552,P. Ciss,Midfielder,Senegal,13
+327631,H. Diarra,Attacker,Senegal,13
+2990,I. Gueye,Midfielder,Senegal,13
+20696,P. Gueye,Midfielder,Senegal,13
+630895,Bara Ndiaye,Midfielder,Senegal,13
+237129,P. Sarr,Midfielder,Senegal,13
+400948,Assane Diao,Attacker,Senegal,13
+284072,B. Dieng,Attacker,Senegal,13
+283058,N. Jackson,Attacker,Senegal,13
+304,S. Mané,Attacker,Senegal,13
+446249,I. Mbaye,Attacker,Senegal,13
+14379,C. Ndiaye,Attacker,Senegal,13
+18592,I. Ndiaye,Midfielder,Senegal,13
+2218,I. Sarr,Attacker,Senegal,13
+2869,E. Álvarez,Midfielder,Mexico,16
+313383,O. Vargas,Midfielder,Mexico,16
+35690,L. Chávez,Midfielder,Mexico,16
+750,Álvaro Fidalgo,Midfielder,Mexico,16
+212233,B. Gutiérrez,Midfielder,Mexico,16
+266345,É. Lira,Midfielder,Mexico,16
+482605,G. Mora,Midfielder,Mexico,16
+35576,O. Pineda,Midfielder,Mexico,16
+35970,L. Romo,Midfielder,Mexico,16
+2879,R. Alvarado,Midfielder,Mexico,16
+94562,S. Giménez,Attacker,Mexico,16
+291713,A. González,Attacker,Mexico,16
+36111,C. Huerta,Midfielder,Mexico,16
+2887,R. Jiménez,Attacker,Mexico,16
+36088,G. Martínez,Attacker,Mexico,16
+35532,J. Quiñones,Midfielder,Mexico,16
+2889,A. Vega,Attacker,Mexico,16
+21010,E. Owusu,Midfielder,Ghana,1504
+49,T. Partey,Midfielder,Ghana,1504
+3608,K. Sibo,Midfielder,Ghana,1504
+475575,Caleb Marfo Yirenkyi,Midfielder,Ghana,1504
+19281,A. Semenyo,Attacker,Ghana,1504
+337426,A. Boakye,Midfielder,Ghana,1504
+303467,A. Fatawu,Midfielder,Ghana,1504
+410016,P. Adu,Midfielder,Ghana,1504
+82090,B. Thomas-Asante,Attacker,Ghana,1504
+3428,J. Ayew,Attacker,Ghana,1504
+411800,C. Bonsu Baah,Attacker,Ghana,1504
+47294,I. Williams,Attacker,Ghana,1504
+350856,E. Nuamah,Attacker,Ghana,1504
+199837,K. Sulemana,Attacker,Ghana,1504
+125171,J. Stanisic,Midfielder,Croatia,3
+295026,M. Baturina,Attacker,Croatia,3
+284869,T. Fruk,Midfielder,Croatia,3
+14395,K. Jakic,Midfielder,Croatia,3
+2291,M. Kovacic,Midfielder,Croatia,3
+754,L. Modric,Midfielder,Croatia,3
+1322,N. Moro,Midfielder,Croatia,3
+2763,M. Pasalic,Midfielder,Croatia,3
+7332,L. Sucic,Midfielder,Croatia,3
+348205,P. Sucic,Attacker,Croatia,3
+842,N. Vlasic,Midfielder,Croatia,3
+46746,A. Budimir,Attacker,Croatia,3
+726,A. Kramaric,Attacker,Croatia,3
+202696,I. Matanovic,Attacker,Croatia,3
+66055,P. Musa,Attacker,Croatia,3
+260865,M. Pasalic,Attacker,Croatia,3
+207,I. Perisic,Midfielder,Croatia,3
+277930,T. Aasgaard,Midfielder,Norway,1090
+39043,F. Aursnes,Midfielder,Norway,1090
+39064,P. Berg,Midfielder,Norway,1090
+1934,S. Berge,Midfielder,Norway,1090
+278133,Oscar Bobb,Midfielder,Norway,1090
+37127,M. Ødegaard,Midfielder,Norway,1090
+36980,M. Thorsby,Midfielder,Norway,1090
+39143,K. Thorstvedt,Midfielder,Norway,1090
+301528,A. Schjelderup,Attacker,Norway,1090
+39073,J. Hauge,Midfielder,Norway,1090
+1100,E. Haaland,Attacker,Norway,1090
+2032,J. Strand Larsen,Attacker,Norway,1090
+314511,A. Nusa,Midfielder,Norway,1090
+8492,A. Sørloth,Attacker,Norway,1090
+319572,V. Barco,Midfielder,Argentina,26
+5996,E. Fernández,Midfielder,Argentina,26
+1578,G. Lo Celso,Midfielder,Argentina,26
+6716,A. Mac Allister,Midfielder,Argentina,26
+6002,E. Palacios,Midfielder,Argentina,26
+271,L. Paredes,Midfielder,Argentina,26
+26315,N. González,Attacker,Argentina,26
+2472,R. De Paul,Midfielder,Argentina,26
+6067,T. Almada,Attacker,Argentina,26
+6009,J. Álvarez,Attacker,Argentina,26
+350037,N. Paz,Attacker,Argentina,26
+295513,J. López,Attacker,Argentina,26
+217,Lautaro Martínez,Attacker,Argentina,26
+154,L. Messi,Attacker,Argentina,26
+323935,G. Simeone,Midfielder,Argentina,26
+863,R. Bentancur,Midfielder,Uruguay,7
+153083,E. Martínez,Midfielder,Uruguay,7
+162891,J. Sanabria,Midfielder,Uruguay,7
+51494,M. Ugarte,Midfielder,Uruguay,7
+756,F. Valverde,Midfielder,Uruguay,7
+108563,R. Zalazar,Midfielder,Uruguay,7
+2612,G. de Arrascaeta,Midfielder,Uruguay,7
+5995,N. de la Cruz,Midfielder,Uruguay,7
+51776,M. Araújo,Midfielder,Uruguay,7
+51603,A. Canobbio,Midfielder,Uruguay,7
+16482,R. Aguirre,Attacker,Uruguay,7
+51466,J. Piquerez,Attacker,Uruguay,7
+51617,D. Núñez,Attacker,Uruguay,7
+70078,F. Pellistri,Attacker,Uruguay,7
+51618,B. Rodríguez,Attacker,Uruguay,7
+51530,F. Viñas,Attacker,Uruguay,7
+49469,M. Ben Ouanes,Midfielder,Tunisia,28
+533295,K. Ayari,Midfielder,Tunisia,28
+310196,Ismaël Gharbi,Attacker,Tunisia,28
+25300,R. Khedira,Midfielder,Tunisia,28
+180560,H. Mejbri,Midfielder,Tunisia,28
+21587,E. Skhiri,Midfielder,Tunisia,28
+199310,A. Ben Slimane,Midfielder,Tunisia,28
+67195,H. Mahmoud,Midfielder,Tunisia,28
+57518,S. Tounekti,Attacker,Tunisia,28
+42012,E. Achouri,Midfielder,Tunisia,28
+2962,F. Chaouat,Attacker,Tunisia,28
+566059,R. Elloumi,Attacker,Tunisia,28
+344862,H. Mastouri,Attacker,Tunisia,28
+323974,E. Saad,Attacker,Tunisia,28
+629,K. De Bruyne,Midfielder,Belgium,1
+162714,A. Onana,Midfielder,Belgium,1
+2120,N. Raskin,Midfielder,Belgium,1
+1417,A. Saelemaekers,Attacker,Belgium,1
+2926,Y. Tielemans,Midfielder,Belgium,1
+335056,D. Moreira,Attacker,Belgium,1
+78,H. Vanaken,Midfielder,Belgium,1
+20,A. Witsel,Midfielder,Belgium,1
+1422,J. Doku,Midfielder,Belgium,1
+340077,M. Fernandez-Pardo,Attacker,Belgium,1
+907,R. Lukaku,Attacker,Belgium,1
+25458,D. Lukebakio,Attacker,Belgium,1
+147859,C. De Ketelaere,Attacker,Belgium,1
+1946,L. Trossard,Midfielder,Belgium,1
+951,M. Aebischer,Midfielder,Switzerland,15
+2807,R. Freuler,Midfielder,Switzerland,15
+264705,A. Jashari,Midfielder,Switzerland,15
+957,D. Sow,Midfielder,Switzerland,15
+1464,G. Xhaka,Midfielder,Switzerland,15
+2810,D. Zakaria,Midfielder,Switzerland,15
+952,C. Fassnacht,Midfielder,Switzerland,15
+48497,C. Itten,Attacker,Switzerland,15
+163032,F. Rieder,Midfielder,Switzerland,15
+48471,R. Vargas,Attacker,Switzerland,15
+123469,Z. Amdouni,Attacker,Switzerland,15
+421,B. Embolo,Attacker,Switzerland,15
+406244,J. Manzambi,Attacker,Switzerland,15
+48389,N. Okafor,Attacker,Switzerland,15
+48648,D. Ndoye,Midfielder,Switzerland,15
+47969,G. Gudmundsson,Midfielder,Sweden,5
+161504,H. Johansson,Midfielder,Sweden,5
+226765,E. Stroud,Midfielder,Sweden,5
+47696,A. Bernhardsson,Midfielder,Sweden,5
+265820,Y. Ayari,Midfielder,Sweden,5
+347316,L. Bergvall,Midfielder,Sweden,5
+48002,B. Nygren,Attacker,Sweden,5
+48047,J. Karlström,Midfielder,Sweden,5
+2860,K. Sema,Midfielder,Sweden,5
+30484,M. Svanberg,Midfielder,Sweden,5
+350850,B. Zeneli,Midfielder,Sweden,5
+160925,T. Ali,Midfielder,Sweden,5
+153430,A. Elanga,Attacker,Sweden,5
+18979,V. Gyökeres,Attacker,Sweden,5
+2864,A. Isak,Attacker,Sweden,5
+15683,G. Nilsson,Attacker,Sweden,5
+190485,Samú Costa,Midfielder,Portugal,27
+1485,Bruno Fernandes,Midfielder,Portugal,27
+335051,João Neves,Midfielder,Portugal,27
+2676,Rúben Neves,Midfielder,Portugal,27
+41621,Matheus Nunes,Midfielder,Portugal,27
+636,Bernardo Silva,Midfielder,Portugal,27
+128384,Vitinha,Midfielder,Portugal,27
+161585,Francisco Conceição,Midfielder,Portugal,27
+925,Gonçalo Guedes,Attacker,Portugal,27
+583,João Félix,Attacker,Portugal,27
+22236,Rafael Leão,Midfielder,Portugal,27
+1864,Pedro Neto,Attacker,Portugal,27
+41585,Gonçalo Ramos,Attacker,Portugal,27
+874,Cristiano Ronaldo,Attacker,Portugal,27
+41112,Trincão,Attacker,Portugal,27
+38735,S. Dest,Midfielder,USA,2384
+19549,A. Robinson,Midfielder,USA,2384
+362400,M. Arfsten,Midfielder,USA,2384
+201713,S. Berhalter,Midfielder,USA,2384
+415,W. McKennie,Midfielder,USA,2384
+161921,G. Reyna,Attacker,USA,2384
+51114,C. Roldan,Midfielder,USA,2384
+162037,M. Tillman,Midfielder,USA,2384
+1150,T. Adams,Midfielder,USA,2384
+1138,T. Weah,Attacker,USA,2384
+35885,A. Zendejas,Attacker,USA,2384
+50739,B. Aaronson,Midfielder,USA,2384
+138835,F. Balogun,Attacker,USA,2384
+73868,R. Pepi,Attacker,USA,2384
+17,C. Pulisic,Attacker,USA,2384
+427,H. Wright,Attacker,USA,2384

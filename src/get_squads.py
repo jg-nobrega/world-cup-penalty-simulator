@@ -182,7 +182,7 @@ else:
     print(
         "\nNenhuma seleção foi carregada."
     )
-
+    
 # Exibe falhas
 print("\nSeleções com erro:")
 
