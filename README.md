@@ -1,81 +1,94 @@
-# world-cup-penalty-simulator
+# World Cup Penalty Simulator
 
-Simulating the FIFA World Cup knockout stage assuming every match is decided by penalty shootouts.
+Simulating the FIFA World Cup knockout stage under the assumption that every match is decided by penalty shootouts.
 
 ## Objective
 
-The goal is to estimate which national teams would have the highest probability of winning the World Cup if every knockout match were decided by penalties.
+Estimate each national team's probability of winning the FIFA World Cup using player statistics, goalkeeper performance and Monte Carlo simulations.
 
 ## Project Status
 
-🚧 In Development
+🚧 **Active Development**
 
-## Main Assumptions
+### Progress
 
-* All knockout matches finish tied.
-* Every match is decided by penalty shootouts.
-* Team strength is based on penalty takers and goalkeepers.
-* Psychological and external factors are not considered.
+* ✅ Official squad collection
+* ✅ Penalty records collection
+* ✅ Competition weighting
+* ✅ Penalty taker scoring model
+* ✅ Goalkeeper scoring model
+* ✅ Automatic selection of the top 5 penalty takers
+* ✅ Automatic selection of the starting goalkeeper
+* 🔄 World Cup knockout stage simulation
 
-## Player Selection Methodology
+📍 For see the result: https://www.linkedin.com/in/joaognobrega/
+
+## Methodology
 
 ### Penalty Takers
 
-A player pool was created using the official squads of the selected national teams.
+Penalty records were collected from multiple domestic and international competitions through API-Football.
 
-Penalty records were collected from multiple domestic and international competitions through the API-Football service and consolidated into a single dataset.
+Each player receives a score based on:
 
-The final penalty score considers:
+* Penalties scored
+* Penalties missed
+* Competition weight
+* Conversion rate
 
-* penalties scored;
-* penalties missed;
-* competition weight;
-* conversion rate.
-
-After calculating the score, the top 5 penalty takers of each national team are selected for the simulation.
+The five highest-ranked players from each national team are automatically selected as penalty takers.
 
 ### Goalkeepers
 
-Goalkeeper performance is evaluated using:
+Goalkeepers are evaluated using:
 
-* average rating;
-* minutes played;
-* saves;
-* penalties saved.
+* Average rating
+* Minutes played
+* Saves
+* Penalties saved
 
-A goalkeeper score is calculated for every available goalkeeper in the player pool.
+The highest-ranked goalkeeper becomes the starting goalkeeper for the simulation.
 
-The highest-ranked goalkeeper from each national team is selected as the starting goalkeeper for the simulation.
+---
 
-### Important Note
+## Assumptions
 
-This project does not use official lineups, coach decisions, player reputation, or subjective evaluations.
+* Every knockout match ends in a draw.
+* Every match is decided by penalty shootouts.
+* Player selection is fully data-driven.
+* No subjective decisions, official lineups or player reputation are considered.
 
-Therefore, the selected penalty takers and goalkeepers may differ from real-life World Cup lineups, reflecting only the statistical methodology adopted by the simulator.
+---
 
-## Planned Features
+## Simulation Pipeline
 
-* Team and player data collection through football APIs
-* Penalty taker performance scoring
-* Goalkeeper penalty-saving scoring
-* Monte Carlo tournament simulations
-* Probability rankings for each national team
+1. Collect official squads.
+2. Collect player statistics.
+3. Calculate penalty taker scores.
+4. Calculate goalkeeper scores.
+5. Select the five penalty takers.
+6. Select the starting goalkeeper.
+7. Simulate penalty shootouts.
+8. Simulate the World Cup knockout bracket.
+9. Estimate title probabilities using Monte Carlo simulations.
 
-## Next Steps
-
-* Build the penalty taker vs goalkeeper matchup model
-* Calculate scoring probabilities for each penalty attempt
-* Simulate full penalty shootouts
-* Simulate the entire World Cup knockout bracket
-* Run Monte Carlo simulations to estimate title probabilities
+---
 
 ## Tech Stack
 
 * Python
 * Pandas
-* Football APIs
+* NumPy
+* API-Football
+* Git
 * GitHub
+
+---
 
 ## Author
 
-João Gabriel Nóbrega
+**João Gabriel Nóbrega**
+
+Data Analyst | Data Science & Analytics Student
+
+This project explores statistical modeling, sports analytics and Monte Carlo simulation techniques applied to football.
